@@ -1,0 +1,7 @@
+pwg.py
+pyproject.toml
+pwg.egg-info/PKG-INFO
+pwg.egg-info/SOURCES.txt
+pwg.egg-info/dependency_links.txt
+pwg.egg-info/entry_points.txt
+pwg.egg-info/top_level.txt

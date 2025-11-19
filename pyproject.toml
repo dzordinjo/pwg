@@ -1,0 +1,10 @@
+[project]
+name = "pwg"
+version = "1.0.0"
+description = "Simple CLI password generator"
+authors = [
+    { name = "dzordinjo" },
+    { email = "dzordinjo@proton.me" }
+]
+[project.scripts]
+pwg = "pwg:main"
